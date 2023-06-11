@@ -2,5 +2,5 @@
 - 👀 I’m interested in Game Programming
 - 🌱 I’m currently learning programming unity
 - 💞️ I’m looking to collaborate on Game Developement
-- 📫 farismiqdad01@gmail.com
+- 📫 movlution@gmail.com
 
