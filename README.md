@@ -1,23 +1,23 @@
-- 👋 Hi, I’m @farismiqdad01
-- 👀 I’m interested in Game Programming
-- 🌱 I’m currently learning programming unity
-- 💞️ I’m looking to collaborate on Game Developement
-- 📫 movlution@gmail.com
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Faris</h1></summary>
+  </ul>
+</div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 👀 I’m interested in Game Programming
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning programming unity
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 💞️ I’m looking to collaborate on Game Developement
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 📫 Feel free to reach me out **movlution@gmail.com**
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **farismiqdad01@gmail.com**
-
-- 🏠 Also We've a tech community called [Basement](https://discord.gg/zreAsusu25).
+- 🏠 Also i have a GameDev community called [Basement](https://discord.gg/zreAsusu25).
 <!--Intro end-->
 
 
@@ -54,20 +54,6 @@
 
 </p>        
 <!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
-  </a>
-</p>
 
 
 <!-- Connect with me -->
